@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "996041048349",
+    "project_id": "fir-to-do-529e5",
+    "storage_bucket": "fir-to-do-529e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996041048349:android:c34c63b48cbb7a613421f4",
+        "android_client_info": {
+          "package_name": "com.example.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996041048349-rm7bj526ddmjpvjfqteomnkbi11o6gma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Q5rRAmjeEuK34u4shsmg6LCX3qi1nrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996041048349-rm7bj526ddmjpvjfqteomnkbi11o6gma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996041048349-smubkuvvushah2b7i9vcs210tkoi4c2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
